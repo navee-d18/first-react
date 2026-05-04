@@ -1,0 +1,12 @@
+*{
+    margin-top: 20px;
+}
+.product {
+    margin-bottom: 10px;
+    border: 2px solid black ;
+    text-align: center ;
+    border-radius: 20px;
+    height: 180px;
+    width: 300px;
+    margin-left: 15px;
+}
